@@ -25,7 +25,7 @@ GUI Event Handling
 
 
 
-![Game Screenshot](your-image-file-name.png](https://github.com/shubhankarnautiyal/StonePaperScissors-Game/blob/main/StonePaperScissors%20Game.png)
+![Game Screenshot](https://github.com/shubhankarnautiyal/StonePaperScissors-Game/blob/main/StonePaperScissors%20Game.png)
 🎮 How to Play
 Run the Python file
 Click on any option:
